@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "stack": "cpp",
+        "iostream": "cpp",
+        "xiosbase": "cpp",
+        "chrono": "cpp",
+        "xlocale": "cpp"
+    }
+}
