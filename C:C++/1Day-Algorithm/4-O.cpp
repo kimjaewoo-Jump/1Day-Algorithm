@@ -5,7 +5,7 @@ using namespace std;
 
 int n, d[200001], ret, cnt;  //d: ) 세기  위함 
 string s;
-stack<int> stk;
+stack<int> stk; // 쌍의 수= 짝짓기
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0); 
